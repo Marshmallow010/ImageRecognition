@@ -1,2 +1,3 @@
-# university
-A personal repository for my college time
+# Hello World!
+This is a personal repository for my university life
+
