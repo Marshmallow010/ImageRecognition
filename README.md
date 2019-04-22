@@ -1,6 +1,4 @@
-# Hello World!
-This is a personal repository for my university life
+# 机读卡识别控制台小程序
+基于C/C++和Opencv3.4.4编写的控制台应用程序
 
-我的程序：
-
-ImageRecognition： 机读卡识别小程序（图像处理入门学习）
+简书：https://www.jianshu.com/p/f8d412ab4ead
